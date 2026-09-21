@@ -82,7 +82,3 @@ This chatbot provides general financial-services information. It does not provid
 ## Future Enhancement
 
 After implementing RAG, the chatbot can be extended to provide answers grounded in specific bank and financial-product documents.
-
-## Author
-
-**Rudra**
