@@ -69,6 +69,12 @@ streamlit run app.py
 * How can I make my loan payment?
 * What happens if I miss an EMI?
 
+https://github.com/user-attachments/assets/50cc74e0-bab4-4716-a004-d355b20238ba
+
+
+
+
+
 ## Scope & Safety
 
 This chatbot provides general financial-services information. It does not provide personalized investment advice and does not request or handle passwords, PINs, OTPs, CVV, or card numbers.
